@@ -74,3 +74,17 @@ Translations are periodically pulled from Transifex and merged into the git repo
 pull from Transifex would automatically overwrite them again.
 
 Translators should also subscribe to the [mailing list](https://groups.google.com/forum/#!forum/bitcoin-translators).
+
+
+17jan2021 Dhaval
+----------------
+0.17 is stable branch 
+Compile, Run, And Customize Your Own Bitcoin Client
+https://technology.finra.org/code/compile-run-customize-your-own-bitcoin-client.html
+https://github.com/bitcoin/bitcoin/issues/13694
+https://bitcoin.stackexchange.com/questions/56529/what-ide-to-use-for-bitcoin-development
+https://github.com/bitcoin/bitcoin/pull/11526
+https://bitcoin.stackexchange.com/questions/50046/how-to-open-bitcoin-source-in-ide
+
+Visual studio build
+https://github.com/bitcoin/bitcoin/pull/11526/commits/ef7beaea6abcaab389ccb486a8f25bc4512b99ed
